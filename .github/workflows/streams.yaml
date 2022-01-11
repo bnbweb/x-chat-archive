@@ -1,9 +1,0 @@
-included:
-- 'CRN3073'
-# - general
-# - javascript
-# - data structures
-
-excluded:
-# - checkins
-# - development help
